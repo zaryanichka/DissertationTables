@@ -1,0 +1,160 @@
+	Organism name	Genome size	Assembly accession	NCBI RefSeq ID	Host taxa
+1	Wolbachia pipientis wAlbB of Aedes albopictus	1484007	GCF_004171285.1	NZ_CP031221.1	Diptera
+2	Wolbachia endosymbiont of Parapoynx stratiotata	1545408	GCF_947250635.1	NZ_OX366335.1	Lepidoptera
+3	Wolbachia endosymbiont of Tiphia femorata	1330165	GCF_947251725.1	NZ_OX366380.1	Hymenoptera
+4	Wolbachia endosymbiont of Nymphalis c-album	1381694	GCF_947250815.1	NZ_OX366350.1	Lepidoptera
+5	Wolbachia endosymbiont of Andrena dorsata	1366844	GCF_947251765.1	NZ_OX366389.1	Hymenoptera
+6	Wolbachia endosymbiont of Drosophila simulans wNo	1301823	GCF_000376585.1	NC_021084.1	Diptera
+7	Wolbachia endosymbiont of Pandemis corylana	1510263	GCF_947250555.1	NZ_OX366328.1	Lepidoptera
+8	Wolbachia endosymbiont of Eucosma cana	1407591	GCF_947250645.1	NZ_OX366334.1	Lepidoptera
+9	Wolbachia endosymbiont of Aedes aegypti	1267763	GCF_017896265.1	NZ_CP072670.1	Diptera
+10	Wolbachia endosymbiont of Camptogramma bilineatum	1668205	GCF_947251825.1	NZ_OX366391.1	Lepidoptera
+11	Wolbachia endosymbiont of Thymelicus sylvestris	1286255	GCF_947251505.1	NZ_OX366365.1	Lepidoptera
+12	Wolbachia endosymbiont of Pararge aegeria	1332905	GCF_947250725.1	NZ_OX366343.1	Lepidoptera
+13	Wolbachia endosymbiont of Macropis europaea	1439111	GCF_947251555.1	NZ_OX366372.1	Hymenoptera
+14	Wolbachia endosymbiont of Archips podanus	1806406	GCF_947250705.1	NZ_OX366341.1	Lepidoptera
+15	Wolbachia endosymbiont of Phalera bucephala	1271809	GCF_947250505.1	NZ_OX366319.1	Lepidoptera
+16	Wolbachia endosymbiont of Endotricha flammealis	1691858	GCF_947250805.1	NZ_OX366352.1	Lepidoptera
+17	Wolbachia endosymbiont of Xestia c-nigrum	1372377	GCF_947250675.1	NZ_OX366340.1	Lepidoptera
+18	Wolbachia endosymbiont of Athalia cordata	1345841	GCF_947251845.1	NZ_OX366383.1	Hymenoptera
+19	Wolbachia endosymbiont wSca of Ostrinia scapulalis	1320340	GCF_023559145.1	NZ_CP096926.1	Lepidoptera
+20	Wolbachia endosymbiont of Eupeodes latifasciatus	1274269	GCF_947250695.1	NZ_OX366337.1	Diptera
+21	Wolbachia endosymbiont of Catoptria pinella	1667356	GCF_947250515.1	NZ_OX366321.1	Lepidoptera
+22	Wolbachia endosymbiont 55YT of Cruorifilaria tuberocauda	863988	GCF_013365475.1	NZ_CP046579.1	Spirurida nematode
+23	Wolbachia endosymbiont of Melanostoma mellinum	1875946	GCF_947251465.1	NZ_OX366366.1	Diptera
+24	Wolbachia endosymbiont of Ischnura elegans	2192297	GCF_947251585.1	NZ_OX366371.1	Odonata
+25	Wolbachia pipientis wAnM of Anopheles moucheti	1121812	GCF_018491625.2	NZ_CP084693.1	Diptera
+26	Wolbachia endosymbiont W2.1 of Drosophila ananassae	1401460	GCF_008033215.1	NZ_CP042904.1	Diptera
+27	Wolbachia endosymbiont of Merzomyia westermanni	1295457	GCF_947251675.1	NZ_OX366375.1	Diptera
+28	Wolbachia sp. wRi of Drosophila simulans Riverside	1445873	GCF_000022285.1	NC_012416.1	Diptera
+29	Wolbachia endosymbiont of Ancistrocerus nigricornis	1265149	GCF_947250785.1	NZ_OX366348.1	Hymenoptera
+30	Wolbachia endosymbiont of Rhopobota naevana	1771989	GCF_947250615.1	NZ_OX366333.1	Lepidoptera
+31	Wolbachia endosymbiont wMa of Drosophila simulans	1273535	GCF_018690035.1	NZ_CP069054.1	Diptera
+32	Wolbachia endosymbiont of Polyommatus icarus	1574132	GCF_947250745.1	NZ_OX366346.1	Lepidoptera
+33	Wolbachia endosymbiont of Hylaeus communis	1526905	GCF_947251915.1	NZ_OX366396.1	Hymenoptera
+34	Wolbachia endosymbiont of Sicus ferrugineus	1273940	GCF_947251515.1	NZ_OX366370.1	Diptera
+35	Wolbachia endosymbiont of Pheosia tremula	1268782	GCF_947251655.1	NZ_OX366373.1	Lepidoptera
+36	Wolbachia endosymbiont of Aedes aegypti	1267770	GCF_017896305.1	NZ_CP072668.1	Diptera
+37	Wolbachia endosymbiont of Aedes aegypti	1267801	GCF_017896365.1	NZ_CP072672.1	Diptera
+38	Wolbachia endosymbiont of Aedes aegypti	1267783	GCF_017896325.1	NZ_CP072666.1	Diptera
+39	Wolbachia endosymbiont Spic_B of Spodoptera picta	1339720	GCF_018141665.1	NZ_CP067976.1	Lepidoptera
+40	Wolbachia endosymbiont of Pheosia gnoma	1353731	GCF_947251565.1	NZ_OX366379.1	Lepidoptera
+41	Wolbachia endosymbiont of Diaphorina citri	1656288	GCF_013458815.1	NZ_CP051608.1	Hemiptera
+42	Wolbachia endosymbiont of Euphydryas aurinia	1802477	GCF_947250535.1	NZ_OX366324.1	Lepidoptera
+43	Wolbachia endosymbiont of Endotricha flammealis	1747616	GCF_947251735.1	NZ_OX366382.1	Lepidoptera
+44	Wolbachia endosymbiont of Yponomeuta plumbellus	1418562	GCF_947251575.1	NZ_OX366353.1	Lepidoptera
+45	Wolbachia pipientis wIrr of Haematobia irritans	1352354	GCF_009732755.1	NZ_CP037426.1	Diptera
+46	Wolbachia endosymbiont wYak of Drosophila yakuba	1394392	GCF_018467115.1	NZ_CP069053.1	Diptera
+47	Wolbachia endosymbiont of Cheilosia soror	1368130	GCF_947250625.1	NZ_OX366332.1	Diptera
+48	Wolbachia endosymbiont of Anoplius nigerrimus	1345805	GCF_947251795.1	NZ_OX366385.1	Hymenoptera
+49	Wolbachia endosymbiont of Calamotropha paludella	1594315	GCF_947251935.1	NZ_OX366397.1	Lepidoptera
+50	Wolbachia endosymbiont of Apoderus coryli	1535196	GCF_947251615.1	NZ_OX366367.1	Coleoptera
+51	Wolbachia endosymbiont of Aedes aegypti	1267783	GCF_017896345.1	NZ_CP072671.1	Diptera
+52	Wolbachia endosymbiont of Drosophila innubila	1290587	GCF_021378375.1	NZ_CP076228.1	Diptera
+53	Wolbachia endosymbiont of Sphecodes monilicornis	1359653	GCF_947250685.1	NZ_OX366339.1	Hymenoptera
+54	Wolbachia endosymbiont of Wiebesia pumilae	1278697	GCF_017869285.1	NZ_CP054557.1	Diptera
+55	Wolbachia endosymbiont of Nomada fabriciana	1438975	GCF_947250795.1	NZ_OX366351.1	Hymenoptera
+56	Wolbachia endosymbiont of Pyrgus malvae	1544873	GCF_947250605.1	NZ_OX366329.1	Lepidoptera
+57	Wolbachia endosymbiont of Phyllotreta cruciferae	1795892	GCF_918697765.1	NZ_OU953855.1	Coleoptera
+58	Wolbachia endosymbiont of Aedes aegypti	1267784	GCF_021496215.1	NZ_CP090902.1	Diptera
+59	Wolbachia endosymbiont of Howardula sp.	553558	GCF_025021925.1	NZ_CP092368.1	Tylenchida nematode
+60	Wolbachia endosymbiont JKI-2014 of Oryzaephilus surinamensis	1728764	GCF_025617515.1	NZ_CP092526.1	Coleoptera
+61	Wolbachia endosymbiont of Drosophila melanogaster	1246905	GCF_016584375.1	NZ_CP046923.1	Diptera
+62	Wolbachia endosymbiont of Drosophila melanogaster	1330657	GCF_016584325.1	NZ_CP046921.1	Diptera
+63	Wolbachia endosymbiont of Protocalliphora azurea	1434285	GCF_947251425.1	NZ_OX366368.1	Diptera
+64	Wolbachia endosymbiont of Apotomis betuletana	1635810	GCF_947250475.1	NZ_OX366320.1	Lepidoptera
+65	Wolbachia endosymbiont of Aedes aegypti	1267786	GCF_021496195.1	NZ_CP090901.1	Diptera
+66	Wolbachia pipientis wCin2USA1 of Rhagoletis cingulata	1538351	GCF_017604245.1	NZ_CP072012.1	Diptera
+67	Wolbachia endosymbiont of Gymnosoma rotundatum	1431527	GCF_947250765.1	NZ_OX366347.1	Diptera
+68	Wolbachia endosymbiont of Colias croceus	1396841	GCF_947250525.1	NZ_OX366323.1	Lepidoptera
+69	Wolbachia endosymbiont of Icerya purchasi	1372034	GCF_947251635.1	NZ_OX366357.1	Hemiptera
+70	Wolbachia endosymbiont of Agriphila straminella	1856316	GCF_947250755.1	NZ_OX366345.1	Lepidoptera
+71	Wolbachia endosymbiont of Folsomia candida	1801626	GCF_001931755.2	NZ_CP015510.2	Collembola
+72	Wolbachia endosymbiont of Drosophila melanogaster	1330657	GCF_016584355.1	NZ_CP046922.1	Diptera
+73	Wolbachia pipientis of Drosophila melanogaster	1267436	GCF_007972745.1	NZ_CP042445.1	Diptera
+74	Wolbachia endosymbiont of Diaphorina citri	1528786	GCF_019355355.1	NZ_CP048819.1	Hemiptera
+75	Wolbachia endosymbiont of Carposina sasakii	1449344	GCF_006542295.1	NZ_CP041215.1	Lepidoptera
+76	Wolbachia endosymbiont of Lasioglossum lativentre	1306351	GCF_947251945.1	NZ_OX366398.1	Hymenoptera
+77	Wolbachia endosymbiont of Andrena dorsata	1533661	GCF_947251685.1	NZ_OX366376.1	Hymenoptera
+78	Wolbachia endosymbiont of Drosophila simulans wHa	1295804	GCF_000376605.1	NC_021089.1	Diptera
+79	Wolbachia endosymbiont of Drosophila pseudotakahashii	1308415	GCF_026015925.1	NZ_CP110359.1	Diptera
+80	Wolbachia endosymbiont of Rhinocyllus conicus	1703908	GCF_947250775.1	NZ_OX366349.1	Coleoptera
+81	Wolbachia endosymbiont strain TRS of Brugia malayi	1080084	GCF_000008385.1	NC_006833.1	Rhabditida nematode
+82	Wolbachia endosymbiont of Andrena haemorrhoa	1494005	GCF_947250565.1	NZ_OX366326.1	Hymenoptera
+83	Wolbachia endosymbiont of Aedes aegypti	1267786	GCF_021496175.1	NZ_CP090900.1	Diptera
+84	Wolbachia endosymbiont of Phalera bucephala	1462992	GCF_947251535.1	NZ_OX366354.1	Lepidoptera
+85	Wolbachia endosymbiont of Brugia pahangi	1072967	GCF_012030695.1	NZ_CP050521.1	Spirurida nematode
+86	Wolbachia endosymbiont wMel of Drosophila melanogaster	1267782	GCF_000008025.1	NC_002978.6	Diptera
+87	Wolbachia endosymbiont of Lasioglossum morio	1270693	GCF_947251705.1	NZ_OX366377.1	Hymenoptera
+88	Wolbachia endosymbiont of Celastrina argiolus	1329046	GCF_947251805.1	NZ_OX366386.1	Lepidoptera
+89	Wolbachia endosymbiont of Volucella inflata	1502844	GCF_947250665.1	NZ_OX366338.1	Diptera
+90	Wolbachia endosymbiont of Nymphalis c-album	1236246	GCF_947250465.1	NZ_OX366317.1	Lepidoptera
+91	Wolbachia endosymbiont of Trypoxylon clavicerum	1287268	GCF_947251665.1	NZ_OX366374.1	Hymenoptera
+92	Wolbachia endosymbiont of Eupithecia tripunctaria	1478719	GCF_947251595.1	NZ_OX366369.1	Lepidoptera
+93	Wolbachia endosymbiont of Chorthippus parallelus	1748465	GCF_947251815.1	NZ_OX366390.1	Orthoptera
+94	Wolbachia endosymbiont of Epistrophe grossularia	1367569	GCF_947251435.1	NZ_OX366363.1	Diptera
+95	Wolbachia endosymbiont of Acrocera orbiculus	1383045	GCF_947250015.1	NZ_OX366272.1	Diptera
+96	Wolbachia endosymbiont of Diaphorina citri	1515037	GCF_019355235.1	NZ_CP048820.1	Hemiptera
+97	Wolbachia endosymbiont of Lasioglossum morio	1284394	GCF_947250495.1	NZ_OX366318.1	Hymenoptera
+98	Wolbachia endosymbiont of Coremacera marginata	1387347	GCF_947251955.1	NZ_OX366399.1	Diptera
+99	Wolbachia endosymbiont wAu of Drosophila simulans	1268455	GCF_018690095.1	NZ_CP069055.1	Diptera
+100	Wolbachia endosymbiont of Watsonalla binaria	1651335	GCF_947250655.1	NZ_OX366336.1	Lepidoptera
+101	Wolbachia endosymbiont of Epagoge grotiana	1781589	GCF_947251775.1	NZ_OX366387.1	Lepidoptera
+102	Wolbachia endosymbiont wSan of Drosophila santomea	1409094	GCF_018467135.1	NZ_CP069060.1	Diptera
+103	Wolbachia pipientis wAlbB-HN2016 of Aedes albopictus	1483853	GCF_002374845.2	NZ_CP041924.1	Diptera
+104	Wolbachia endosymbiont of Hylaea fasciaria	1307821	GCF_947251975.1	NZ_OX366401.1	Lepidoptera
+105	Wolbachia pipientis wAlbB-Q of Aedes aegypti	1484007	GCF_019665805.1	NZ_CP080546.1	Diptera
+106	Wolbachia endosymbiont wMau of Drosophila mauritiana	1273530	GCF_004795975.1	NZ_CP034335.1	Diptera
+107	Wolbachia pipientis wAlbB-FL2016 of Aedes albopictus	1482279	GCF_002379145.2	NZ_CP041923.1	Diptera
+108	Wolbachia endosymbiont of Ctenocephalides felis wCfeT	1495538	GCF_012277295.1	NZ_CP051156.1	Siphonaptera
+109	Wolbachia pipientis wMel_I23 of Drosophila melanogaster	1269137	GCF_007972595.1	NZ_CP042444.1	Diptera
+110	Wolbachia endosymbiont of Sympetrum striolatum	1516596	GCF_947250715.1	NZ_OX366342.1	Odonata
+111	Wolbachia endosymbiont of Epirrhoe alternata	1197405	GCF_947251475.1	NZ_OX366359.1	Lepidoptera
+112	Wolbachia endosymbiont of Epagoge grotiana	1431998	GCF_947251745.1	NZ_OX366381.1	Lepidoptera
+113	Wolbachia endosymbiont of Aedes aegypti	1267786	GCF_021496155.1	NZ_CP090899.1	Diptera
+114	Wolbachia endosymbiont of Aedes aegypti	1267775	GCF_017896285.1	NZ_CP072667.1	Diptera
+115	Wolbachia endosymbiont of Drosophila melanogaster	1267843	GCF_016584405.1	NZ_CP046924.1	Diptera
+116	Wolbachia endosymbiont of Lasioglossum morio	1282687	GCF_947250585.1	NZ_OX366327.1	Hymenoptera
+117	Wolbachia endosymbiont of Philonthus cognatus	1811323	GCF_947251755.1	NZ_OX366388.1	Coleoptera
+118	Wolbachia endosymbiont of Pammene fasciana	1266982	GCF_947251495.1	NZ_OX366360.1	Lepidoptera
+119	Wolbachia endosymbiont wFur of Ostrinia furnacalis	1321828	GCF_023559125.1	NZ_CP096925.1	Lepidoptera
+120	Wolbachia endosymbiont of Diaphorina citri	1515763	GCF_019355375.1	NZ_CP048818.1	Hemiptera
+121	Wolbachia endosymbiont of Campaea margaritaria	1507681	GCF_947250595.1	NZ_OX366330.1	Lepidoptera
+122	Wolbachia endosymbiont of Protocalliphora azurea	1550351	GCF_947251865.1	NZ_OX366394.1	Diptera
+123	Wolbachia endosymbiont of Aedes aegypti	1267782	GCF_021497225.1	NZ_CP090948.1	Diptera
+124	Wolbachia endosymbiont of Onchocerca volvulus 	960618	GCF_000530755.1	NZ_HG810405.1	Spirurida nematode
+125	Wolbachia endosymbiont of Calamotropha paludella	1378300	GCF_947251525.1	NZ_OX366355.1	Lepidoptera
+126	Wolbachia endosymbiont of Dipetalonema caudispina	863427	GCF_013365495.1	NZ_CP046580.1	Spirurida nematode
+127	Wolbachia endosymbiont of Sphecodes monilicornis	1141922	GCF_947251965.1	NZ_OX366400.1	Hymenoptera
+128	Wolbachia endosymbiont of Apotomis turbidana	1525755	GCF_947251835.1	NZ_OX366384.1	Lepidoptera
+129	Wolbachia endosymbiont of Drosophila melanogaster	1267783	GCF_016584425.1	NZ_CP046925.1	Diptera
+130	Wolbachia endosymbiont of Bombylius major	1556586	GCF_947251895.1	NZ_OX366395.1	Diptera
+131	Wolbachia endosymbiont of Delia radicum	1586584	GCF_021609905.1	NZ_CP091195.1	Diptera
+132	Wolbachia endosymbiont of Episyrphus balteatus	1402288	GCF_947250575.1	NZ_OX366325.1	Diptera
+133	Wolbachia endosymbiont of Anopheles demeilloni	1231247	GCF_018491735.2	NZ_CP084694.1	Diptera
+134	Wolbachia endosymbiont of Aedes aegypti	1267786	GCF_021496235.1	NZ_CP090903.1	Diptera
+135	Wolbachia endosymbiont of Chrysomya megacephala	1376868	GCF_008245065.1	NZ_CP021120.1	Diptera
+136	Wolbachia endosymbiont of Epistrophe grossularia	1483876	GCF_947251925.1	NZ_OX366393.1	Diptera
+137	Wolbachia endosymbiont of Ectemnius continuus	1299221	GCF_947251695.1	NZ_OX366378.1	Hymenoptera
+138	Wolbachia endosymbiont of Erynnis tages	1532960	GCF_947250545.1	NZ_OX366331.1	Lepidoptera
+139	Wolbachia endosymbiont wTei of Drosophila simulans	1353394	GCF_018689955.1	NZ_CP069052.1	Diptera
+140	Wolbachia endosymbiont of Brugia malayi	1080064	GCF_004795935.1	NZ_CP034333.1	Spirurida nematode
+141	Wolbachia endosymbiont of Ctenocephalides felis wCfeJ	1201647	GCF_012277315.1	NZ_CP051157.1	Siphonaptera
+142	Wolbachia endosymbiont of Emmelina monodactyla	1385742	GCF_947251605.1	NZ_OX366361.1	Lepidoptera
+143	Wolbachia endosymbiont wMau of Drosophila mauritiana	1273527	GCF_004795955.1	NZ_CP034334.1	Diptera
+144	Wolbachia endosymbiont of Scambus nigricans	1150902	GCF_947251485.1	NZ_OX366356.1	Hymenoptera
+145	Wolbachia endosymbiont wLsig of Litomosoides sigmodontis	1045802	GCF_013365435.1	NZ_CP046577.1	Spirurida nematode
+146	Wolbachia endosymbiont of Oedothorax gibbosus	1551378	GCF_936270145.1	NZ_OW370537.1	Araneae
+147	Wolbachia endosymbiont of Sphaerophoria taeniata	1354582	GCF_947250735.1	NZ_OX366344.1	Diptera
+148	Wolbachia endosymbiont of Anomoia purmunda	1485790	GCF_947251545.1	NZ_OX366362.1	Lepidoptera
+149	Wolbachia endosymbiont of Phalera bucephala	1358027	GCF_947251625.1	NZ_OX366358.1	Lepidoptera
+150	Wolbachia endosymbiont of Aedes aegypti	1267786	GCF_017896245.1	NZ_CP072669.1	Diptera
+151	Wolbachia endosymbiont of Psylliodes chrysocephala	1438854	GCF_918342435.1	NZ_OU909470.1	Coleoptera
+152	Wolbachia endosymbiont wOo of Onchocerca ochengi	957990	GCF_000306885.1	NC_018267.1	Spirurida nematode
+153	Wolbachia endosymbiont of Lycaena phlaeas	1312310	GCF_947251875.1	NZ_OX366392.1	Lepidoptera
+154	Wolbachia pipientis wMel_N25 of Drosophila melanogaster	1267781	GCF_007971685.1	NZ_CP042446.1	Diptera
+155	Wolbachia endosymbiont of Bibio marci	1355351	GCF_947251645.1	NZ_OX366364.1	Diptera
+156	Wolbachia endosymbiont FR3 of Dirofilaria (Dirofilaria) immitis	920122	GCF_013365455.1	NZ_CP046578.1	Spirurida nematode
+157	Wolbachia endosymbiont wCle of Cimex lectularius	1250060	GCF_000829315.1	NZ_AP013028.1	Hemiptera
+158	Wolbachia endosymbiont of Corcyra cephalonica	1381884	GCF_020995475.1	NZ_CP087954.1	Lepidoptera
+159	Wolbachia endosymbiont of Aedes albopictus	1226577	GCF_024804185.1	NZ_CP101657.1	Diptera
